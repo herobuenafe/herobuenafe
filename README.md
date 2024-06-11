@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hero
 - 👀 I’m interested in ... Studying a programming language 
-- 🌱 I’m currently ... Focusing on improving myself
 
 <!---
 Shenzu1/Shenzu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
