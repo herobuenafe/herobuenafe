@@ -7,7 +7,8 @@ I'm Hero, a passionate developer and a lifelong learner keen on studying and mas
 
 - 🛠️ Tools:
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
+  - ![Microsoft Visual Studio](https://img.shields.io/badge/-Microsoft%20Visual%20Studio-333333?style=flat&logo=visual-studio)
+    
 ## Fun Fact
 - 🎮 I love playing video games in my free time!
 - 📚 I’m always eager to learn new things!
