@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shenzu
+- 👋 Hi, I’m Hero
 - 👀 I’m interested in ... Studying a programming language 
 - 🌱 I’m currently ... Focusing on improving myself
 
