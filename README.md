@@ -2,10 +2,11 @@
 I'm Hero, a passionate developer and a lifelong learner keen on studying and mastering various programming languages and technologies.
 
 
+<!---
 - 🛠️ Tools:
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
   - ![Microsoft Visual Studio](https://img.shields.io/badge/-Microsoft%20Visual%20Studio-333333?style=flat&logo=visual-studio)
-    
+    --->
 
 ## Tools I'm Learning:
 
