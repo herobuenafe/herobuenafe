@@ -18,7 +18,7 @@ I'm Hero, a passionate developer and a lifelong learner keen on studying and mas
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-herobeunafe=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-herobeunafeflat-square)
 
 <!---
 Shenzu1/Shenzu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
