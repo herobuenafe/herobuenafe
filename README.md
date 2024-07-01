@@ -1,5 +1,5 @@
 # Hero Buenafe
-I'm Hero, a passionate developer and a lifelong learner keen on studying and mastering various programming languages and technologies.
+I'm Hero, a passionate developer (dummy coder) and a lifelong learner keen on studying and mastering various programming languages and technologies.
 
 
 ## Socials:
