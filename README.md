@@ -7,7 +7,7 @@ I'm Hero, a passionate developer and a lifelong learner keen on studying and mas
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shenzuui)
 
 ## Contact Me:
-[![Gmail](https://img.shields.io/badge/Email-buenafehero@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buenafehero@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-buenafehero@gmail.com-87CEEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buenafehero@gmail.com)
 
 ## I'm Learning
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
