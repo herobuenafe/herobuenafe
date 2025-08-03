@@ -4,7 +4,7 @@ I'm Hero, a passionate developer and a lifelong learner keen on studying and mas
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hero.buenafe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shenzuui)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iceheroo)
 
 ## Contact Me:
 [![Gmail](https://img.shields.io/badge/Email-buenafehero@gmail.com-87CEEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buenafehero@gmail.com)
